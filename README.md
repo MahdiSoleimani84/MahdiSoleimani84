@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii<br><br>🌱I am currently working on the kotlin language<br><br>🌱And I am self-taught learning mobile programming<br><br>⚡Eager to learn more and contribute to the project in the field of Kotlin language
+Hii<br><br>🌱I am currently working on the jetpack compose<br><br>🌱And I am self-taught learning mobile programming<br><br>⚡Eager to learn more and contribute to the project in the field of Kotlin language
 
 
 ## 🌐 Socials:
